@@ -12,8 +12,6 @@ README File Generator
  5. [ License. ](#license)
  6. [ Contribution. ](#contrib)
  7. [ Tests. ](#tests)
- 8. [ Picture Link](#questionsPict)
- 9. [ Email Link](#questionsEmail)
  
  ## Introduction: 
  
