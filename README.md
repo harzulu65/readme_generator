@@ -43,6 +43,7 @@ Commit the changes and that will be all.
 
 You can start making any modification to your README.md file.
 
+![Image](https://github.com/harzulu65/readme_generator/raw/master/readme_generator-without-output.png)
 
  <a name=licenset></a>
 ## 5. License
