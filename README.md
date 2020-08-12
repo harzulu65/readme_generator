@@ -34,6 +34,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 After cloning the repository you should run npm install.
 
+node index.js
+
  <a name=usage></a>
 ## 4. Usage
 
