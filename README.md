@@ -1,4 +1,5 @@
-# readme_generator
+# README.md Generator
+
 README File Generator
 
 [![GitHub license](https://img.shields.io/github/license/harzulu65/readme_generator)](https://github.com/harzulu65/readme_generator/blob/master/LICENSE)
