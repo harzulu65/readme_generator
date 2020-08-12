@@ -38,8 +38,7 @@ README File Generator
  <a name=licenset></a>
 # 5. License
 
-
-
+https://github.com/harzulu65/readme_generator/blob/master/LICENSE
 
  <a name=contrib></a>
 # 6. Contributing
